@@ -1,0 +1,14 @@
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.AssemblyInfoInputs.cache
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.AssemblyInfo.cs
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.csproj.CoreCompileInputs.cache
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\bin\Debug\net9.0\task2.exe
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\bin\Debug\net9.0\task2.deps.json
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\bin\Debug\net9.0\task2.runtimeconfig.json
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\bin\Debug\net9.0\task2.dll
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\bin\Debug\net9.0\task2.pdb
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.dll
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\refint\task2.dll
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.pdb
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\task2.genruntimeconfig.cache
+C:\4\repos\uni\2025-2026\OSDESIGN\lab4\task2\obj\Debug\net9.0\ref\task2.dll
